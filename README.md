@@ -13,5 +13,5 @@ seaborn 0.11.0
 sklearn 0.23.2
 scipy 1.5.2
 
-##Setup
+## Setup
 Jupyter Notebook で動作します。
